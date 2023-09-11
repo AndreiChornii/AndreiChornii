@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreiChornii
-- 👀 I’m interested in react native
-- 🌱 I’m currently learning The Complete React Native + Hooks Course (by udemy)
-- 💞️ I’m looking to collaborate on php, js and react native
+- 👀 I’m interested in Angular
+- 🌱 I’m currently learning Angular (by itvdn)
+- 💞️ I’m looking to collaborate on php, ts and angular
 - 📫 You can reach me at andrei.chornii@gmail.com
 
 <!---
